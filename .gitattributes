@@ -1,0 +1,3 @@
+docs/* linguist-documentation=false
+docs/language.txt linguist-detectable=true
+docs/language.txt linguist-language=Java

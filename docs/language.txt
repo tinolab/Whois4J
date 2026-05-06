@@ -1,0 +1,4 @@
+/**
+ * This repository is for the documentation of a closed-source Java project.
+ * It is manually tagged as Java to reflect the project's primary language.
+ */
